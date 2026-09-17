@@ -1,0 +1,1 @@
+"""Consent desk example package."""
